@@ -6,5 +6,6 @@ public class Main
     {
         System.out.println("Homework done master branch changes");
         System.out.println("master change");
+        System.out.println("lesson 4 change");
     }
 }
