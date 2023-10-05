@@ -4,4 +4,8 @@ package lesson1.hw.additional;
         месяца.*/
 public class HW1
 {
+    public static void main(String[] args)
+    {
+
+    }
 }
