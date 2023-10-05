@@ -4,6 +4,6 @@ public class Main
 {
     public static void main(String[] args)
     {
-        System.out.println("Homework done conflict_test branch");
+        System.out.println("Homework done master branch changes");
     }
 }
